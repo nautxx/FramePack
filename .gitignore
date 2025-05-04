@@ -139,6 +139,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+framepack_env/
 
 # Spyder project settings
 .spyderproject
